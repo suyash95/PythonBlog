@@ -1,7 +1,7 @@
 # PythonBlog
 
 ## Technology used
-```python, flask, sqliteDB```
+```python, flask, sqliteDB, pytest```
 
 ## Setup 
 * clone using ```https://github.com/suyash95/PythonBlog.git```
